@@ -5,7 +5,7 @@ import controller.Kill;
 import java.io.IOException;
 
 import javax.swing.JOptionPane;
-public class Main {
+public class Main1e2 {
 	public static void main (String[] args) throws IOException {
 		Redes r = new Redes();
 		Kill k = new Kill();
